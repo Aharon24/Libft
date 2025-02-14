@@ -16,7 +16,7 @@ Libft is the first major project in 42 School, aimed at recreating standard C li
 
 ## 🛠 Installation
 ```bash
-git clone https://github.com/your-username/libft.git
+git clone https://github.com/Aharon24/Libft.git
 cd libft
 make
 ```
